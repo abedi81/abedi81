@@ -32,6 +32,8 @@ My work emphasizes building projects that connect **theory to practice** through
 
 ###  Machine Learning
 
+ [View Repository](https://github.com/abedi81/Machine-Learning-Projects)
+
 - Customer churn prediction  
 - Unsupervised clustering (credit behavior, EV charging patterns)  
 - End-to-end modeling and feature engineering  
@@ -41,6 +43,8 @@ My work emphasizes building projects that connect **theory to practice** through
 ---
 
 ### Statistics
+
+[View Repository](https://github.com/abedi81/Statistics-Projects)
  
 - Bayesian inference (Monte Carlo)  
 - Regression fundamentals (error vs residual)  
