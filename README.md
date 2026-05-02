@@ -12,13 +12,16 @@ My work emphasizes building projects that connect **theory to practice** through
 - Machine Learning & Predictive Modeling  
 - Statistical Modeling & Simulation  
 
+
 ---
 
 ## Projects
 
 ###  Causal Inference
-View Repository : https://github.com/abedi81/Causal-Inference-Projects/blob/main/README.md
-Simulation-based projects covering:
+
+[View Repository](https://github.com/abedi81/Causal-Inference-Projects)
+
+
 - Selection bias and randomized experiments  
 - A/B testing and experimental design  
 - Difference-in-Differences, Synthetic Control, and RDD  
@@ -28,7 +31,7 @@ Simulation-based projects covering:
 ---
 
 ###  Machine Learning
-Applied projects including:
+
 - Customer churn prediction  
 - Unsupervised clustering (credit behavior, EV charging patterns)  
 - End-to-end modeling and feature engineering  
@@ -38,7 +41,7 @@ Applied projects including:
 ---
 
 ### Statistics
-Concept-driven projects using simulation:
+ 
 - Bayesian inference (Monte Carlo)  
 - Regression fundamentals (error vs residual)  
 - Survival analysis (Weibull modeling)  
