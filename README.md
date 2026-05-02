@@ -59,8 +59,5 @@ Concept-driven projects using simulation:
 
 ## Goal
 
-To build reliable, interpretable models that help explain behavior, evaluate interventions, and support better decision-making.
-
----
-
+To understand the world through data by asking *why*, *how*, and *what*  while constantly checking whether the data is telling the truth… or just confidently lying to me. 
 
