@@ -1,16 +1,66 @@
 ## Hi there 👋
 
-<!--
-**abedi81/abedi81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a Data Scientist interested in applying **causal inference, machine learning, and statistical modeling** to understand real-world behavior and support data-driven decision-making.
 
-Here are some ideas to get you started:
+My work emphasizes building projects that connect **theory to practice** through simulation, experimentation, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Core Areas
+
+- Causal Inference & A/B Testing  
+- Machine Learning & Predictive Modeling  
+- Statistical Modeling & Simulation  
+
+---
+
+## Projects
+
+###  Causal Inference
+Simulation-based projects covering:
+- Selection bias and randomized experiments  
+- A/B testing and experimental design  
+- Difference-in-Differences, Synthetic Control, and RDD  
+
+ *Focus: understanding cause-and-effect relationships in real-world data*
+
+---
+
+###  Machine Learning
+Applied projects including:
+- Customer churn prediction  
+- Unsupervised clustering (credit behavior, EV charging patterns)  
+- End-to-end modeling and feature engineering  
+
+ *Focus: building predictive models and extracting actionable insights*
+
+---
+
+### Statistics
+Concept-driven projects using simulation:
+- Bayesian inference (Monte Carlo)  
+- Regression fundamentals (error vs residual)  
+- Survival analysis (Weibull modeling)  
+
+ *Focus: developing deep intuition for statistical concepts*
+
+
+---
+
+## Skills
+
+- Python  
+- SQL  
+- Causal Inference & Experimental Design  
+- Machine Learning & Model Evaluation  
+- Statistical Modeling & Simulation  
+
+---
+
+## Goal
+
+To build reliable, interpretable models that help explain behavior, evaluate interventions, and support better decision-making.
+
+---
+
+
