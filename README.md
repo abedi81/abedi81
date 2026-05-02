@@ -17,6 +17,7 @@ My work emphasizes building projects that connect **theory to practice** through
 ## Projects
 
 ###  Causal Inference
+View Repository : https://github.com/abedi81/Causal-Inference-Projects/blob/main/README.md
 Simulation-based projects covering:
 - Selection bias and randomized experiments  
 - A/B testing and experimental design  
