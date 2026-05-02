@@ -1,6 +1,6 @@
 ## Hi I'm Mehdi
 
- I'm a Data Scientist interested in applying **causal inference, machine learning, and statistical modeling** to understand real-world behavior and support data-driven decision-making.
+ I'm a Data Scientist focused on applying **causal inference, machine learning, and statistical modeling** to understand real-world behavior and support data-driven decision-making.
 
 My work emphasizes building projects that connect **theory to practice** through simulation, experimentation, and predictive modeling.
 
