@@ -21,16 +21,6 @@ My work emphasizes building projects that connect **theory to practice** through
 
 [View Repository](https://github.com/abedi81/Causal-Inference-Projects)
 
-### Synthetic Control Analysis
-
-<p align="center">
-  <img width="500" src="YOUR_IMAGE_LINK" alt="Synthetic Control Result" />
-</p>
-
-<p align="center">
-  Treated vs synthetic unit before and after intervention
-</p>
-
 - Selection bias and randomized experiments  
 - A/B testing and experimental design  
 - Difference-in-Differences, Synthetic Control, and RDD  
