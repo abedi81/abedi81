@@ -25,7 +25,7 @@ My work emphasizes building projects that connect **theory to practice** through
 - A/B testing and experimental design  
 - Difference-in-Differences, Synthetic Control, and RDD  
 
- *Focus: understanding cause-and-effect relationships in real-world data*
+ *Focus: understanding causal relationships in real-world data*
 
 ---
 
