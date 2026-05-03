@@ -24,7 +24,7 @@ My work emphasizes building projects that connect **theory to practice** through
 ### Synthetic Control Analysis
 
 <p align="center">
-  <img width="500" src="https://github.com/user-attachments/assets/d3dfdda7-4627-4357-bd29-b1ebaab270fc" alt="Synthetic Control: Treated vs Synthetic Unit Over Time" />
+  <img width="200" src="https://github.com/user-attachments/assets/d3dfdda7-4627-4357-bd29-b1ebaab270fc" alt="Synthetic Control: Treated vs Synthetic Unit Over Time" />
 </p>
 
 <p align="center">
