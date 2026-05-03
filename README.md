@@ -23,7 +23,7 @@ My work emphasizes building projects that connect **theory to practice** through
 
 - Selection bias and randomized experiments  
 - A/B testing and experimental design  
-- Difference-in-Differences, Synthetic Control, and RDD  
+- Difference-in-Differences, Synthetic Control, IV, and RD  
 
  *Focus: understanding causal relationships in real-world data*
 
