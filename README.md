@@ -66,5 +66,5 @@ My work emphasizes building projects that connect **theory to practice** through
 
 ## Goal
 
-To understand the world through data by asking *why*, *how*, and *what*  while constantly checking whether the data is telling the truth… or just confidently lying to me. 
+To understand the world through data by asking *why*, *how*, and *what*  while constantly checking whether the data is telling the truth… or just confidently lying to me :)
 
