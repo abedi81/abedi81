@@ -56,7 +56,8 @@ My work emphasizes building projects that connect **theory to practice** through
 
 ## Skills
 
-- Python  
+- Python
+- R 
 - SQL  
 - Causal Inference & Experimental Design  
 - Machine Learning & Model Evaluation  
