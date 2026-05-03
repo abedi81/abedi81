@@ -21,6 +21,15 @@ My work emphasizes building projects that connect **theory to practice** through
 
 [View Repository](https://github.com/abedi81/Causal-Inference-Projects)
 
+### Synthetic Control Analysis
+
+<p align="center">
+  <img width="500" src="https://github.com/user-attachments/assets/d3dfdda7-4627-4357-bd29-b1ebaab270fc" alt="Synthetic Control: Treated vs Synthetic Unit Over Time" />
+</p>
+
+<p align="center">
+  Comparison between treated unit and its synthetic counterpart before and after intervention.
+</p>
 
 - Selection bias and randomized experiments  
 - A/B testing and experimental design  
